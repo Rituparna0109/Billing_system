@@ -1,0 +1,27 @@
+		**WELCOME CUSTOMER**
+
+Bill Number:14883
+
+Customer Name:gf
+
+Customer Phone Number:453
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Bath Soap 			04			80 Rs
+Face Wash 			04			400 Rs
+Hair Spray 			04			600 Rs
+Oil 			04			600 Rs
+Wheat			04			100 Rs
+Sugar			04			180 Rs
+Maaza 			04			360 Rs
+Sprite 			04			380 Rs
+Coco Cola 			04			380 Rs
+-------------------------------------------------------
+Cosmetic Tax				129.6Rs
+Grocery Tax				44.0Rs
+Drink Tax				89.60000000000001Rs
+
+Total Bill 				 3343.2
+-------------------------------------------------------

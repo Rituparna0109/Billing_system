@@ -1,0 +1,26 @@
+		**WELCOME CUSTOMER**
+
+Bill Number:4102
+
+Customer Name:xyz
+
+Customer Phone Number:1234567809
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Bath Soap 			1			20 Rs
+Face Cream 			5			250 Rs
+Face Wash 			7			700 Rs
+Hair Spray 			5			750 Rs
+Wheat			1			25 Rs
+Pepsi 			1			90 Rs
+-------------------------------------------------------
+Cosmetic Tax				206.4Rs
+Grocery Tax				1.25Rs
+Drink Tax				7.2Rs
+-------------------------------------------------------
+
+Total Bill 				 2049.85
+-------------------------------------------------------			**THANKYOU VISIT AGAIN**
+

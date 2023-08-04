@@ -1,0 +1,26 @@
+		**WELCOME CUSTOMER**
+
+Bill Number:7445
+
+Customer Name:xyz
+
+Customer Phone Number:5876990078
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Bath Soap 			1			20 Rs
+Hair Spray 			1			150 Rs
+Hair Gel 			5			400 Rs
+Oil 			5			750 Rs
+Daal			3			330 Rs
+Frooti 			8			640 Rs
+-------------------------------------------------------
+Cosmetic Tax				68.39999999999999Rs
+Grocery Tax				54.0Rs
+Drink Tax				51.2Rs
+-------------------------------------------------------
+
+Total Bill 				 2463.6
+-------------------------------------------------------			**THANKYOU VISIT AGAIN**
+
